@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   
-  "homepage": "https://Have-A-Heart.github.io/have-a-heart/",
+  "homepage": "https://Have-A-Heart.github.io/Have-A-Heart",
   "type": "module",
   "scripts": {
     "dev": "vite",

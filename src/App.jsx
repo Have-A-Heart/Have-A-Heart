@@ -198,7 +198,7 @@ const PaymentSection = () => {
                             <a href="https://cash.app/$1995Robert" target="_blank" rel="noopener noreferrer" className="text-center">
                                 <h4 className="text-xl font-bold mb-3 text-green-600 hover:underline">Cash App</h4>
                                 <img
-                                    src="/$1995Robert.png"
+                                    src="/Have-A-Heart/$1995Robert.png"
                                     alt="Cash App QR Code"
                                     className="w-36 h-36 rounded-md mb-3 shadow-md"
                                     onError={(e) => { e.target.onerror = null; e.target.src="https://placehold.co/256x256/cccccc/333333?text=Error"; }}
